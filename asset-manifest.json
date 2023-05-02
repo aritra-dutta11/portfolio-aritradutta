@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aritra-dutta11/portfolio-aritradutta/static/css/main.3e5fd3bf.css",
+    "main.js": "/aritra-dutta11/portfolio-aritradutta/static/js/main.d3e78e2c.js",
+    "static/media/myphoto1.jpg": "/aritra-dutta11/portfolio-aritradutta/static/media/myphoto1.6969613c944e15867b48.jpg",
+    "static/media/cv.pdf": "/aritra-dutta11/portfolio-aritradutta/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/myphoto.png": "/aritra-dutta11/portfolio-aritradutta/static/media/myphoto.052f6977c3e2cb2f3fb7.png",
+    "index.html": "/aritra-dutta11/portfolio-aritradutta/index.html",
+    "main.3e5fd3bf.css.map": "/aritra-dutta11/portfolio-aritradutta/static/css/main.3e5fd3bf.css.map",
+    "main.d3e78e2c.js.map": "/aritra-dutta11/portfolio-aritradutta/static/js/main.d3e78e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5fd3bf.css",
+    "static/js/main.d3e78e2c.js"
+  ]
+}
